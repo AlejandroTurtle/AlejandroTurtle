@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-Sou Alejandro, tenho 23 anos e atualmente trabalho com conteúdo tributário mas sempre fui apaixonado pela area da tecnologia atualmente estou estudando e me aperfeioando para poder entrar na area e trabalhar com o que sempre quis. 
+Sou Alejandro, tenho 23 anos e atualmente trabalho com conteúdo tributário mas sempre fui apaixonado pela area da tecnologia, estou estudando e me aperfeioando para poder entrar na area de desenvolvimento. 
 
 ## Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](alejandrogomes23@hotmail.com)
