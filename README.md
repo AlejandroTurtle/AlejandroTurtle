@@ -7,7 +7,7 @@ Sou Alejandro, tenho 23 anos e atualmente trabalho com conteúdo tributário mas
 ## Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](alejandrogomes23@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/alejandro-gomes)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https:https://web.dio.me/users/alejandrogomes23?tab=achievements)
+[![Perfil DIO]([https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https:https://web.dio.me/users/alejandrogomes23?tab=achievements](https://web.dio.me/users/alejandrogomes23/?tab=projects&page=1))
 
 ## 🛠 Hard Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
