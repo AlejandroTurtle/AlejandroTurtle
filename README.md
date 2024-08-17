@@ -52,6 +52,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AlejandroTurtle/AlejandroTurtle/output/snake.svg" alt="Snake animation" />
 
 ###
