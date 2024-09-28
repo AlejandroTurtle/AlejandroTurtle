@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2023<br>📚 Sou bom nas seguintes tecnologias e linguagens: JavaScript, Node.js, TypeScript, React, Express, SQL (PostgreSQL, MySql), Git, API REST, HTML, CSS, VueJs, Pacote office.<br>📝Atualmente estou aprendendo: PHP</p>
+<p align="left">✨ Criando bugs desde 2023<br>📚 Sou bom nas seguintes tecnologias e linguagens: JavaScript, Node.js, TypeScript, React, Express, SQL (PostgreSQL, MySql), Git, API REST, HTML, CSS, VueJs, Pacote office.<br>📝Atualmente estou aprendendo: C#</p>
 
 ###
 
