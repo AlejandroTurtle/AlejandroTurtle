@@ -54,7 +54,4 @@
 ###
 
 <br clear="both">
-
-![Snake animation](https://github.com/AlejandroTurtle/AlejandroTurtle/blob/output/github-contribution-grid-snake.svg)
-
 ###
